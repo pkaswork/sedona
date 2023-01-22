@@ -1,5 +1,9 @@
 # Sedona
 
+Репозиторий создан для обучения на профессиональном онлайн‑курсе htmlacademy HTML и CSS. Профессиональная вёрстка сайтов
+
+Форк от Юлии: Проект создается на основе JavaScript фреймфорка Angular, с использованием возможностей SASS
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.1.
 
 ## Development server
